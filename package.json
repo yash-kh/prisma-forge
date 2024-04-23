@@ -1,0 +1,18 @@
+{
+  "name": "prisma-forge",
+  "version": "1.0.2",
+  "description": "generate prisma query",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "prisma",
+    "query"
+  ],
+  "author": "yash-kh",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
