@@ -1,6 +1,6 @@
 {
   "name": "prisma-forge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "generate prisma query",
   "main": "dist/index.js",
   "scripts": {
